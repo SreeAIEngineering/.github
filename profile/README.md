@@ -6,14 +6,7 @@ Building practical enterprise solutions across **Forward Deployment, DevOps, Gen
 
 ### Banking Operations AI Agent
 
-Enterprise Agentic AI solution for banking operations with:
-
-- Controlled tool calling
-- Policy retrieval
-- LLM investigation summaries
-- Microsoft Foundry
-- Guardrails & escalation
-- Docker deployment
+Enterprise Agentic AI solution for banking operations with controlled tool calling, policy retrieval, LLM summaries, Microsoft Foundry, guardrails, escalation, and Docker deployment.
 
 ## Featured Projects
 
