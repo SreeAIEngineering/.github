@@ -1,4 +1,4 @@
-# SreeAIEngineering
+# About my projects
 
 Building practical enterprise solutions across:
 
