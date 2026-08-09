@@ -1,36 +1,25 @@
-# About my projects
+# About My Projects
 
-Building practical enterprise solutions across:
+Building practical enterprise solutions across **Forward Deployment, DevOps, GenAI, Agentic AI, MLOps/AIOps, Cloud Engineering, Release Management, and Build & Deployment**.
 
-- Forward Deployment
-- DevOps & CI/CD
-- Generative AI
-- Agentic AI
-- MLOps / AIOps
-- Cloud Engineering
-- Release & Change Management
-- Dev Ops Manager
-- Build and Deployment
-  
-## Featured Project - Banking Domain
+## Featured Project — Banking Domain
 
 ### Banking Operations AI Agent
-Enterprise-style Agentic AI project for banking operations, including:
+
+Enterprise Agentic AI solution for banking operations with:
 
 - Controlled tool calling
 - Policy retrieval
-- LLM-based investigation summaries
-- Microsoft Foundry integration
-- Guardrails and escalation
+- LLM investigation summaries
+- Microsoft Foundry
+- Guardrails & escalation
 - Docker deployment
-
-## Current Focus
 
 ## Featured Projects
 
 | Repository | Focus | Status |
 |---|---|---|
-| [banking-operations-ai-agent](https://github.com/SreeEngineering/banking-operations-ai-agent) | Agentic AI for banking operations, transaction investigation, policy retrieval, and LLM summaries | ✅ In Progress |
-| [devops-release-automation](https://github.com/SreeEngineering/devops-release-automation) | CI/CD, release automation, deployment workflows, and environment promotion | 📋 Planned |
-| [mlops-platform](https://github.com/SreeEngineering/mlops-platform) | Model deployment, monitoring, pipelines, and MLOps workflows | 📋 Planned |
-| [enterprise-rag-platform](https://github.com/SreeEngineering/enterprise-rag-platform) | Enterprise RAG, document retrieval, embeddings, and knowledge workflows | 📋 Planned |
+| [banking-operations-ai-agent](https://github.com/SreeEngineering/banking-operations-ai-agent) | Banking operations, transaction investigation, policy retrieval, LLM summaries | 🚧 In Progress |
+| [devops-release-automation](https://github.com/SreeEngineering/devops-release-automation) | CI/CD, release automation, deployment workflows | 📋 Planned |
+| [mlops-platform](https://github.com/SreeEngineering/mlops-platform) | Model deployment, monitoring, MLOps pipelines | 📋 Planned |
+| [enterprise-rag-platform](https://github.com/SreeEngineering/enterprise-rag-platform) | Enterprise RAG, embeddings, document retrieval | 📋 Planned |
