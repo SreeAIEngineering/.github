@@ -19,7 +19,7 @@ Enterprise Agentic AI solution for banking operations with:
 
 | Repository | Focus | Status |
 |---|---|---|
-| [banking-operations-ai-agent]([https://github.com/SreeEngineering/banking-operations-ai-agent](https://github.com/SreeAIEngineering/banking-operations-ai-agent.git)) | Banking operations, transaction investigation, policy retrieval, LLM summaries | 🚧 In Progress |
+| [banking-operations-ai-agent](https://github.com/SreeAIEngineering/banking-operations-ai-agent) | Banking operations, transaction investigation, policy retrieval, LLM summaries | 🚧 In Progress |
 | [devops-release-automation](https://github.com/SreeEngineering/devops-release-automation) | CI/CD, release automation, deployment workflows | 📋 Planned |
 | [mlops-platform](https://github.com/SreeEngineering/mlops-platform) | Model deployment, monitoring, MLOps pipelines | 📋 Planned |
 | [enterprise-rag-platform](https://github.com/SreeEngineering/enterprise-rag-platform) | Enterprise RAG, embeddings, document retrieval | 📋 Planned |
