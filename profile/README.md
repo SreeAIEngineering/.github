@@ -12,7 +12,7 @@ Building practical enterprise solutions across:
 - Dev Ops Manager
 - Build and Deployment
   
-## Featured Projects
+## Featured Project - Banking Domain
 
 ### Banking Operations AI Agent
 Enterprise-style Agentic AI project for banking operations, including:
