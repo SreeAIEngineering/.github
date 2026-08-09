@@ -9,7 +9,9 @@ Building practical enterprise solutions across:
 - MLOps / AIOps
 - Cloud Engineering
 - Release & Change Management
-
+- Dev Ops Manager
+- Build and Deployment
+  
 ## Featured Projects
 
 ### Banking Operations AI Agent
