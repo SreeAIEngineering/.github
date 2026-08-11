@@ -10,9 +10,10 @@ Enterprise Agentic AI solution for banking operations with controlled tool calli
 
 ## Featured Projects
 
-| Repository | Focus | Status |
-|---|---|---|
-| [banking-operations-ai-agent](https://github.com/SreeAIEngineering/banking-operations-ai-agent) | Banking operations, transaction investigation, policy retrieval, LLM summaries | 🚧 Completed |
-| [devops-release-automation](https://github.com/SreeEngineering/devops-release-automation) | CI/CD, release automation, deployment workflows | 📋 Planned |
-| [mlops-platform](https://github.com/SreeEngineering/mlops-platform) | Model deployment, monitoring, MLOps pipelines | 📋 Planned |
-| [enterprise-rag-platform](https://github.com/SreeEngineering/enterprise-rag-platform) | Enterprise RAG, embeddings, document retrieval | 📋 Planned |
+| Repository                                                                                            | Focus                                                                          | Status      |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- |
+| [banking-operations-ai-agent](https://github.com/SreeAIEngineering/banking-operations-ai-agent)       | Banking operations, transaction investigation, policy retrieval, LLM summaries | ✅ Completed |
+| [servicenow-pm-proof-of-concept](https://github.com/SreeAIEngineering/servicenow-pm-proof-of-concept) | ServiceNow project management, RAID, RACI, UAT, go-live, hypercare, governance | ✅ Completed |
+| [devops-release-automation](https://github.com/SreeEngineering/devops-release-automation)             | CI/CD, release automation, deployment workflows                                | 📋 Planned  |
+| [mlops-platform](https://github.com/SreeEngineering/mlops-platform)                                   | Model deployment, monitoring, MLOps pipelines                                  | 📋 Planned  |
+| [enterprise-rag-platform](https://github.com/SreeEngineering/enterprise-rag-platform)                 | Enterprise RAG, embeddings, document retrieval                                 | 📋 Planned  |
